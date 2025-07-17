@@ -29,6 +29,7 @@ A real-time face mask detection system using deep learning and OpenCV to ensure 
 git clone https://github.com/ShaikhSiddique10/face-mask-detection
 cd face-mask-detection/mask_detector.model
 pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 
