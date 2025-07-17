@@ -33,10 +33,10 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-# Train the model (optional if model is already saved)
+## Train the model (optional if model is already saved)
 py -3.9 train.py
 
-# Run real-time face mask detection
+## Run real-time face mask detection
 py -3.9 detect.py
 
 ## 📊 Results / Accuracy
