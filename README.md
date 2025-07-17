@@ -57,5 +57,7 @@ Model was trained from scratch using a balanced dataset of with_mask and without
 ## 👤 Author Info
 Siddique Shaikh
 📧 siddiqueshaikh009@gmail.com
+
 🔗 https://in.linkedin.com/in/siddique-shaikh-23a776265
+
 💻 https://github.com/ShaikhSiddique10
